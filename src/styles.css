@@ -1,0 +1,67 @@
+.city {
+  font-size: 30px;
+  font-weight: 600;
+}
+.emoji,
+.temp-value {
+  font-size: 74px;
+}
+.emoji img {
+  vertical-align: top;
+}
+.temp-type {
+  padding: 16px 12px 0 12px;
+}
+.poin {
+  cursor: pointer;
+}
+.main-block {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.footer {
+  position: absolute;
+  bottom: 5rem;
+  right: 50%;
+  text-align: center;
+}
+.f-left {
+  float: left;
+}
+.blue {
+  color: blue;
+}
+.info-data {
+  padding-top: 16px;
+  margin-left: 24px;
+}
+
+.weatherForWeek {
+  border-top: 1px solid #f9f7fe;
+  margin: 40px 0;
+  text-align: center;
+}
+
+.dayWeek {
+  color: gray;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+}
+
+.temperatureWeek {
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1.5;
+
+  .min {
+    margin-left: 10px;
+    opacity: 0.6;
+  }
+}
+
+.red {
+  color: #f65282;
+}
